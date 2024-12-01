@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8Reinas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3934ebd61a22e7a0bf4d79127e8f5bbe9560c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b247aae96826cd01f14c6dc980e5b9d05058f2f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("8Reinas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8Reinas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\bin\Debug\net8.0\8Reinas.exe
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\bin\Debug\net8.0\8Reinas.deps.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\bin\Debug\net8.0\8Reinas.runtimeconfig.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\bin\Debug\net8.0\8Reinas.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\bin\Debug\net8.0\8Reinas.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.AssemblyInfoInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.AssemblyInfo.cs
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.csproj.CoreCompileInputs.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.sourcelink.json
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\refint\8Reinas.dll
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.pdb
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\8Reinas.genruntimeconfig.cache
+C:\Users\aguez\OneDrive\Documentos\Dev\BootcampExtrados\C#\8Reinas\8Reinas\obj\Debug\net8.0\ref\8Reinas.dll
