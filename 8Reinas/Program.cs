@@ -2,19 +2,25 @@
 
 
 using _8Reinas;
+using System;
+
 class Program
 {
-    int contadorSoluciones = 0; // Contador global para el número de soluciones
-
     static void Main(string[] args)
     {
-        int tamañoTablero = 8;                      // Define el tamaño del tablero (8x8)
-        Tablero tablero = new Tablero(tamañoTablero); // Crea una instancia del tablero
-        Reina pieza = new Reina();                  // Crea una instancia de la reina
+        int tamañoTablero = 8;
+        Tablero tablero = new Tablero(tamañoTablero);
 
-        Tablero.Resolver(tablero, 0, tamañoTablero, pieza, 0); // Llama al método para resolver el problema
+        Reina reina = new Reina();
+        int[] posiciones = new int[tamañoTablero];
+        for (int i = 0; i < tamañoTablero; i++) posiciones[i] = -1; // Inicializa las posiciones
+
+        int contadorSoluciones = 0;
+        reina.Resolver(tablero, 0, tamañoTablero, posiciones, ref contadorSoluciones);
+
+        Console.WriteLine($"Proceso terminado. Total de soluciones: {contadorSoluciones}");
+        // Pausa para evitar que la consola se cierre inmediatamente
+        Console.WriteLine("Presiona cualquier tecla para salir...");
+        Console.ReadKey();
     }
-
-    // Método recursivo para resolver el problema de las 8 reinas
-    
 }
